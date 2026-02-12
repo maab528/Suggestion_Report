@@ -1,6 +1,6 @@
 📊# Suggestion Report
 
-# Demand Forecasting & Inventory Optimization Strategy
+#Demand Forecasting & Inventory Optimization Strategy
 
 🚀 Project Overview
 
