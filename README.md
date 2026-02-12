@@ -1,4 +1,4 @@
-📊# Suggestion Report
+📊 # Suggestion Report
 
 #Demand Forecasting & Inventory Optimization Strategy
 
